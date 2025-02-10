@@ -10,7 +10,7 @@ Enter the name of the song in the input field.
 Any spelling mistakes will be autocorrected using fuzzy matching.
 The model will recommend similar songs and the UI will display it along with the name of the artist.
 
-Future improvements;
+Future improvements:
 Incorporate collaborative filtering for better results.
 integrate deep learning
 
